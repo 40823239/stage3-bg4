@@ -20,6 +20,7 @@
 <v t="leo.20200818170222.1"><vh>內容</vh>
 <v t="leo.20200818170328.1"><vh>slide 1</vh></v>
 <v t="leo.20200818170535.1"><vh>slide 2</vh></v>
+<v t="leo.20210624185921.1"><vh>newHeadline</vh></v>
 </v>
 </v>
 </v>
@@ -186,6 +187,14 @@ vertical: body pane on the botton</t>
 &lt;/section&gt;
 
 
+</t>
+<t tx="leo.20210624185921.1">&lt;section&gt;
+&lt;h1&gt;譜椅&lt;/h1&gt;
+
+        &lt;p&gt;&lt;img alt="" height="400" src="https://40823239.github.io/stage3-bg4/images/1.png" width="520"/&gt;&lt;/p&gt;
+    
+
+&lt;/section&gt;
 </t>
 </tnodes>
 </leo_file>
