@@ -21,6 +21,20 @@
 <v t="leo.20200818170328.1"><vh>slide 1</vh></v>
 <v t="leo.20200818170535.1"><vh>slide 2</vh></v>
 <v t="leo.20210624185921.1"><vh>newHeadline</vh></v>
+<v t="leo.20210624190747.1"><vh>newHeadline</vh></v>
+<v t="leo.20210624190845.1"><vh>newHeadline</vh></v>
+<v t="leo.20210624190846.1"><vh>newHeadline</vh></v>
+<v t="leo.20210624190847.1"><vh>newHeadline</vh></v>
+<v t="leo.20210624190847.2"><vh>newHeadline</vh></v>
+<v t="leo.20210624191136.1"><vh>newHeadline</vh></v>
+<v t="leo.20210624191137.1"><vh>newHeadline</vh></v>
+<v t="leo.20210624191137.2"><vh>newHeadline</vh></v>
+<v t="leo.20210624191137.3"><vh>newHeadline</vh></v>
+<v t="leo.20210624191137.4"><vh>newHeadline</vh></v>
+<v t="leo.20210624191138.1"><vh>零件截止</vh></v>
+<v t="leo.20210624191138.2"><vh>newHeadline</vh></v>
+<v t="leo.20210624191512.1"><vh>newHeadline</vh></v>
+<v t="leo.20210624191513.1"><vh>newHeadline</vh></v>
 </v>
 </v>
 </v>
@@ -192,6 +206,114 @@ vertical: body pane on the botton</t>
 &lt;h1&gt;譜椅&lt;/h1&gt;
 
         &lt;p&gt;&lt;img alt="" height="400" src="https://40823239.github.io/stage3-bg4/images/1.png" width="520"/&gt;&lt;/p&gt;
+    
+
+&lt;/section&gt;
+</t>
+<t tx="leo.20210624190747.1">&lt;section&gt;
+&lt;h1&gt;工程圖&lt;/h1&gt;
+
+        &lt;p&gt;&lt;img alt="" height="400" src="https://40823239.github.io/stage3-bg4/images/13.png" width="520"/&gt;&lt;/p&gt;
+    
+
+&lt;/section&gt;
+</t>
+<t tx="leo.20210624190845.1">&lt;section&gt;
+    &lt;h1&gt;零件圖簡介 &lt;/h1&gt;
+   
+&lt;/section&gt;</t>
+<t tx="leo.20210624190846.1">&lt;section&gt;
+&lt;h1&gt;零件1&lt;/h1&gt;
+
+        &lt;p&gt;&lt;img alt="" height="400" src="https://40823239.github.io/stage3-bg4/images/8.png" width="520"/&gt;&lt;/p&gt;
+    
+
+&lt;/section&gt;
+</t>
+<t tx="leo.20210624190847.1">&lt;section&gt;
+&lt;h1&gt;零件2&lt;/h1&gt;
+
+        &lt;p&gt;&lt;img alt="" height="400" src="https://40823239.github.io/stage3-bg4/images/10.png" width="520"/&gt;&lt;/p&gt;
+    
+
+&lt;/section&gt;
+</t>
+<t tx="leo.20210624190847.2">&lt;section&gt;
+&lt;h1&gt;零件3&lt;/h1&gt;
+
+        &lt;p&gt;&lt;img alt="" height="400" src="https://40823239.github.io/stage3-bg4/images/4.png" width="520"/&gt;&lt;/p&gt;
+    
+
+&lt;/section&gt;
+</t>
+<t tx="leo.20210624191136.1">&lt;section&gt;
+&lt;h1&gt;零件4&lt;/h1&gt;
+
+        &lt;p&gt;&lt;img alt="" height="400" src="https://40823239.github.io/stage3-bg4/images/5.png" width="520"/&gt;&lt;/p&gt;
+    
+
+&lt;/section&gt;
+</t>
+<t tx="leo.20210624191137.1">&lt;section&gt;
+&lt;h1&gt;零件5&lt;/h1&gt;
+
+        &lt;p&gt;&lt;img alt="" height="400" src="https://40823239.github.io/stage3-bg4/images/6.png" width="520"/&gt;&lt;/p&gt;
+    
+
+&lt;/section&gt;
+</t>
+<t tx="leo.20210624191137.2">&lt;section&gt;
+&lt;h1&gt;零件6&lt;/h1&gt;
+
+        &lt;p&gt;&lt;img alt="" height="400" src="https://40823239.github.io/stage3-bg4/images/7.png" width="520"/&gt;&lt;/p&gt;
+    
+
+&lt;/section&gt;
+</t>
+<t tx="leo.20210624191137.3">&lt;section&gt;
+&lt;h1&gt;零件7&lt;/h1&gt;
+
+        &lt;p&gt;&lt;img alt="" height="400" src="https://40823239.github.io/stage3-bg4/images/11.png" width="520"/&gt;&lt;/p&gt;
+    
+
+&lt;/section&gt;
+</t>
+<t tx="leo.20210624191137.4">&lt;section&gt;
+&lt;h1&gt;零件8&lt;/h1&gt;
+
+        &lt;p&gt;&lt;img alt="" height="400" src="https://40823239.github.io/stage3-bg4/images/12.png" width="520"/&gt;&lt;/p&gt;
+    
+
+&lt;/section&gt;
+</t>
+<t tx="leo.20210624191138.1">&lt;section&gt;
+&lt;h1&gt;零件9&lt;/h1&gt;
+
+        &lt;p&gt;&lt;img alt="" height="400" src="https://40823239.github.io/stage3-bg4/images/3.png" width="520"/&gt;&lt;/p&gt;
+    
+
+&lt;/section&gt;
+</t>
+<t tx="leo.20210624191138.2">&lt;section&gt;
+&lt;h1&gt;模擬出問題後調整&lt;/h1&gt;
+
+        &lt;p&gt;&lt;img alt="" height="400" src="https://40823239.github.io/stage3-bg4/images/14.png" width="520"/&gt;&lt;/p&gt;
+    
+
+&lt;/section&gt;
+</t>
+<t tx="leo.20210624191512.1">&lt;section&gt;
+&lt;h1&gt;模擬出問題後調整&lt;/h1&gt;
+
+        &lt;p&gt;&lt;img alt="" height="400" src="https://40823239.github.io/stage3-bg4/images/16.png" width="520"/&gt;&lt;/p&gt;
+    
+
+&lt;/section&gt;
+</t>
+<t tx="leo.20210624191513.1">&lt;section&gt;
+&lt;h1&gt;模擬&lt;/h1&gt;
+
+        &lt;p&gt;&lt;img alt="" height="400" src="file:///E:/kmol2021_spring_v1/data/tmp/stage3-bg4/images/646226091.703190.mp4" width="520"/&gt;&lt;/p&gt;
     
 
 &lt;/section&gt;
