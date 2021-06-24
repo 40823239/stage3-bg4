@@ -35,6 +35,8 @@
 <v t="leo.20210624191138.2"><vh>newHeadline</vh></v>
 <v t="leo.20210624191512.1"><vh>newHeadline</vh></v>
 <v t="leo.20210624191513.1"><vh>newHeadline</vh></v>
+<v t="leo.20210624192339.1"><vh>newHeadline</vh></v>
+<v t="leo.20210624192421.1"><vh>newHeadline</vh></v>
 </v>
 </v>
 </v>
@@ -297,7 +299,7 @@ vertical: body pane on the botton</t>
 <t tx="leo.20210624191138.2">&lt;section&gt;
 &lt;h1&gt;模擬出問題後調整&lt;/h1&gt;
 
-        &lt;p&gt;&lt;img alt="" height="400" src="https://40823239.github.io/stage3-bg4/images/14.png" width="520"/&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;img alt="" height="400" src="https://40823239.github.io/stage3-bg4/images/14.jpg" width="520"/&gt;&lt;/p&gt;
     
 
 &lt;/section&gt;
@@ -305,18 +307,27 @@ vertical: body pane on the botton</t>
 <t tx="leo.20210624191512.1">&lt;section&gt;
 &lt;h1&gt;模擬出問題後調整&lt;/h1&gt;
 
-        &lt;p&gt;&lt;img alt="" height="400" src="https://40823239.github.io/stage3-bg4/images/16.png" width="520"/&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;img alt="" height="400" src="https://40823239.github.io/stage3-bg4/images/16.jpg" width="520"/&gt;&lt;/p&gt;
     
 
 &lt;/section&gt;
 </t>
 <t tx="leo.20210624191513.1">&lt;section&gt;
-&lt;h1&gt;模擬&lt;/h1&gt;
+&lt;h2&gt;組合圖模擬&lt;/h2&gt;
+   &lt;iframe width="560" height="315" src="&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/uMAERvzPG-A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20210624192339.1">&lt;section&gt;
 
-        &lt;p&gt;&lt;img alt="" height="400" src="file:///E:/kmol2021_spring_v1/data/tmp/stage3-bg4/images/646226091.703190.mp4" width="520"/&gt;&lt;/p&gt;
-    
-
+    &lt;a href="https://drive.google.com/file/d/1jmDyq_0Ifd0lk4dArPWGmftTmB4oMPuQ/view?usp=sharing"&gt;ppt報告 &lt;/a&gt;
 &lt;/section&gt;
+
+
 </t>
+<t tx="leo.20210624192421.1">&lt;section&gt;
+   &lt;p&gt;
+        &lt;h3&gt;心得:&lt;/h3&gt;
+&lt;small&gt;這門課程，看似簡單背後所要付出的心力是非常多的，從資料來源、整理、統計、立體模型製作......等等。自從分組之後才發現，負責繪畫零件的、整理所有資料的、組合零件的......等等，每個人都有自己分內要做的事。從專題就可以看出一個人在團隊裡的細心及用心程度，不僅可以增加許多機械相關的知識，也了解到專業分工、彼此之間該如何相處的方法，也讓我感受到人與人相處的重要性。儘管如此，這次的經驗，就足以讓我在做報告、團隊合作以及溝通交流上成長許多。&lt;/small&gt;
+    &lt;/p&gt;
+&lt;/section&gt;</t>
 </tnodes>
 </leo_file>
