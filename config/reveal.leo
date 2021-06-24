@@ -314,7 +314,7 @@ vertical: body pane on the botton</t>
 </t>
 <t tx="leo.20210624191513.1">&lt;section&gt;
 &lt;h2&gt;組合圖模擬&lt;/h2&gt;
-   &lt;iframe width="560" height="315" src="&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/uMAERvzPG-A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+   &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/uMAERvzPG-A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20210624192339.1">&lt;section&gt;
 
